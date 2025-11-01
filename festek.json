@@ -3,210 +3,271 @@
     "termek_nev": "Héra Prémium Fehér Beltéri Falfesték 5L",
     "ar": 5990,
     "raktaron": true,
-    "leiras": "Magas fedőképességű, mosható beltéri falfesték, ideális nappalikhoz és hálószobákhoz.",
-    "kep_url": "https://picsum.photos/seed/festek1/400/300"
+    "rovid_leiras": "Magas fedőképességű, mosható fehér beltéri falfesték.",
+    "hosszu_leiras": "Kiváló páraáteresztés és könnyű felhordhatóság jellemzi. Nappalikba és hálókba ideális, matt, egyenletes felületet ad.",
+    "kep_url": "https://picsum.photos/seed/festek1/400/300",
+    "tipus": "Beltéri"
   },
   {
     "termek_nev": "Trilak Aqua Lazúr Dió 2.5L",
     "ar": 4290,
     "raktaron": true,
-    "leiras": "Vízbázisú, kültéri és beltéri használatra alkalmas lazúr, természetes dió árnyalatban.",
-    "kep_url": "https://picsum.photos/seed/festek2/400/300"
+    "rovid_leiras": "Vízbázisú dekorlazúr természetes dió árnyalatban.",
+    "hosszu_leiras": "Beltéri és kültéri fa felületekre is alkalmas. Ki emeli a fa erezetét és UV-álló védelmet biztosít.",
+    "kep_url": "https://picsum.photos/seed/festek2/400/300",
+    "tipus": "Fa"
   },
   {
     "termek_nev": "Poli-Farbe Inntaler Beltéri Falfesték 15L",
     "ar": 10490,
     "raktaron": false,
-    "leiras": "Fehér diszperziós falfesték nagy fedőképességgel és jó páraáteresztéssel.",
-    "kep_url": "https://picsum.photos/seed/festek3/400/300"
+    "rovid_leiras": "Fehér diszperziós falfesték nagy felületekhez.",
+    "hosszu_leiras": "Magas fedőképesség, jó kiadósság. Régi és új vakolatokra egyaránt használható, egyenletes matt végeredménnyel.",
+    "kep_url": "https://picsum.photos/seed/festek3/400/300",
+    "tipus": "Beltéri"
   },
   {
     "termek_nev": "Hammerite Fémfesték Ezüst 0.75L",
     "ar": 6490,
     "raktaron": true,
-    "leiras": "Korróziógátló fémfesték, közvetlenül rozsdára is felvihető, tartós fényes bevonatot ad.",
-    "kep_url": "https://picsum.photos/seed/festek4/400/300"
+    "rovid_leiras": "Korróziógátló fémfesték közvetlenül rozsdára.",
+    "hosszu_leiras": "Egy lépésben alapoz és fed, gyorsan szárad. Tartós, fényes ezüst bevonatot ad kültéri és beltéri fémre.",
+    "kep_url": "https://picsum.photos/seed/festek4/400/300",
+    "tipus": "Fém"
   },
   {
     "termek_nev": "Sadolin Superdec Kültéri Fa Festék Fehér 2.5L",
     "ar": 8990,
     "raktaron": true,
-    "leiras": "Kiváló időjárásálló tulajdonságú festék fa felületekre, hosszan tartó védelemmel.",
-    "kep_url": "https://picsum.photos/seed/festek5/400/300"
+    "rovid_leiras": "Időjárásálló fedőfesték kültéri fára.",
+    "hosszu_leiras": "Rugalmas bevonat, kiváló UV- és csapadékállóság. Kerítésekhez, homlokzatburkolathoz, kerti bútorokhoz ajánlott.",
+    "kep_url": "https://picsum.photos/seed/festek5/400/300",
+    "tipus": "Kültéri"
   },
   {
-    "termek_nev": "Dulux EasyCare Mosható Falfesték Pasztellzöld 2.5L",
+    "termek_nev": "Dulux EasyCare Pasztellzöld 2.5L",
     "ar": 7990,
     "raktaron": true,
-    "leiras": "Mosható beltéri festék, különösen ellenálló a szennyeződésekkel szemben.",
-    "kep_url": "https://picsum.photos/seed/festek6/400/300"
+    "rovid_leiras": "Mosható beltéri festék pasztellzöld árnyalatban.",
+    "hosszu_leiras": "Foltlepergető technológia, könnyű tisztíthatóság. Gyerekszobába és nagy igénybevételű terekbe ideális.",
+    "kep_url": "https://picsum.photos/seed/festek6/400/300",
+    "tipus": "Beltéri"
   },
   {
-    "termek_nev": "Héra Gold Beltéri Falfesték Világosszürke 5L",
+    "termek_nev": "Héra Gold Világosszürke 5L",
     "ar": 6290,
     "raktaron": true,
-    "leiras": "Modern szürke árnyalatú beltéri falfesték, könnyen felvihető, matt felületet ad.",
-    "kep_url": "https://picsum.photos/seed/festek7/400/300"
+    "rovid_leiras": "Modern világosszürke beltéri falfesték.",
+    "hosszu_leiras": "Matt, elegáns felületet ad és jól fed. Könnyen felhordható hengerrel vagy ecsettel, alacsony szagterheléssel.",
+    "kep_url": "https://picsum.photos/seed/festek7/400/300",
+    "tipus": "Beltéri"
   },
   {
-    "termek_nev": "Poli-Farbe Cellkolor Univerzális Zománcfesték Piros 1L",
+    "termek_nev": "Cellkolor Univerzális Zománc Piros 1L",
     "ar": 4590,
     "raktaron": false,
-    "leiras": "Fém, fa és egyéb felületekre alkalmas magasfényű zománcfesték.",
-    "kep_url": "https://picsum.photos/seed/festek8/400/300"
+    "rovid_leiras": "Magasfényű univerzális zománc fa és fém felületekre.",
+    "hosszu_leiras": "Strapabíró bevonat, jó terülés. Ajtókhoz, korlátokhoz, radiátorokhoz is használható megfelelő alapozással.",
+    "kep_url": "https://picsum.photos/seed/festek8/400/300",
+    "tipus": "Univerzális"
   },
   {
-    "termek_nev": "Tikkurila Optiva 5 Matt Beltéri Festék 9L",
+    "termek_nev": "Tikkurila Optiva 5 Matt 9L",
     "ar": 16990,
     "raktaron": true,
-    "leiras": "Kiváló minőségű, környezetbarát festék, alacsony VOC-tartalommal.",
-    "kep_url": "https://picsum.photos/seed/festek9/400/300"
+    "rovid_leiras": "Prémium matt beltéri festék alacsony VOC-val.",
+    "hosszu_leiras": "Környezetbarát összetétel, kiváló fedés és moshatóság. Közösségi terekbe és otthonokba egyaránt ajánlott.",
+    "kep_url": "https://picsum.photos/seed/festek9/400/300",
+    "tipus": "Beltéri"
   },
   {
-    "termek_nev": "Poli-Farbe Boróka Lazúr Tölgy 5L",
+    "termek_nev": "Boróka Lazúr Tölgy 5L",
     "ar": 9990,
     "raktaron": true,
-    "leiras": "Tartós védelmet nyújt fa felületeknek, UV-álló és vízlepergető.",
-    "kep_url": "https://picsum.photos/seed/festek10/400/300"
+    "rovid_leiras": "Dekoratív és védő lazúr tölgy színben.",
+    "hosszu_leiras": "UV-álló, vízlepergető réteget ad. Kerítésekre, pergolákra, lambériára ideális hosszan tartó védelemmel.",
+    "kep_url": "https://picsum.photos/seed/festek10/400/300",
+    "tipus": "Fa"
   },
   {
-    "termek_nev": "Dulux Professional Kültéri Falfesték Fehér 10L",
+    "termek_nev": "Dulux Professional Kültéri Fehér 10L",
     "ar": 17990,
     "raktaron": true,
-    "leiras": "Időjárásálló, páraáteresztő kültéri festék hosszú élettartammal.",
-    "kep_url": "https://picsum.photos/seed/festek11/400/300"
+    "rovid_leiras": "Páraáteresztő homlokzatfesték hosszú élettartammal.",
+    "hosszu_leiras": "Időjárásálló, algásodásnak ellenáll. Régi és új vakolatokra használható, jó fedéssel és kiadóssággal.",
+    "kep_url": "https://picsum.photos/seed/festek11/400/300",
+    "tipus": "Kültéri"
   },
   {
-    "termek_nev": "Poli-Farbe Corso Betonfesték Szürke 4L",
+    "termek_nev": "Corso Betonfesték Szürke 4L",
     "ar": 8990,
     "raktaron": false,
-    "leiras": "Beton- és járófelületek festésére alkalmas, kopásálló bevonatot képez.",
-    "kep_url": "https://picsum.photos/seed/festek12/400/300"
+    "rovid_leiras": "Kopásálló bevonat beton- és járófelületekre.",
+    "hosszu_leiras": "Csúszásálló adalékkal keverhető. Garázsok, pincék, műhelyek padlóinak tartós védelméhez ajánlott.",
+    "kep_url": "https://picsum.photos/seed/festek12/400/300",
+    "tipus": "Kültéri"
   },
   {
-    "termek_nev": "Trilak Lazurán Aqua Dekor Cédrus 2.5L",
+    "termek_nev": "Lazurán Aqua Dekor Cédrus 2.5L",
     "ar": 4690,
     "raktaron": true,
-    "leiras": "Dekoratív lazúr, kiemeli a fa erezetét, természetes megjelenést biztosít.",
-    "kep_url": "https://picsum.photos/seed/festek13/400/300"
+    "rovid_leiras": "Vízbázisú dekorlazúr cédrus árnyalattal.",
+    "hosszu_leiras": "Természetes, meleg tónus, kiemelt erezet. Kerti bútorok és faburkolatok esztétikus védelmére.",
+    "kep_url": "https://picsum.photos/seed/festek13/400/300",
+    "tipus": "Fa"
   },
   {
     "termek_nev": "Hammerite Fémfesték Arany 0.75L",
     "ar": 6890,
     "raktaron": true,
-    "leiras": "Korróziógátló bevonat fémfelületekre, díszítő arany árnyalatban.",
-    "kep_url": "https://picsum.photos/seed/festek14/400/300"
+    "rovid_leiras": "Díszítő arany árnyalatú, rozsdagátló fémfesték.",
+    "hosszu_leiras": "Közvetlenül rozsdára alkalmazható. Kerítések, kovácsoltvas szerkezetek tartós, fényes bevonatához.",
+    "kep_url": "https://picsum.photos/seed/festek14/400/300",
+    "tipus": "Fém"
   },
   {
-    "termek_nev": "Héra Prémium Beltéri Falfesték Vaníliakrém 5L",
+    "termek_nev": "Héra Vaníliakrém 5L",
     "ar": 6490,
     "raktaron": true,
-    "leiras": "Meleg, barátságos árnyalatú beltéri festék, kiváló fedőképességgel.",
-    "kep_url": "https://picsum.photos/seed/festek15/400/300"
+    "rovid_leiras": "Meleg, barátságos árnyalatú beltéri festék.",
+    "hosszu_leiras": "Gyorsan szárad, szagtalanodás után azonnal lakható a helyiség. Jó fedőképességgel és kiadóssággal.",
+    "kep_url": "https://picsum.photos/seed/festek15/400/300",
+    "tipus": "Beltéri"
   },
   {
-    "termek_nev": "Dulux EasyCare Mosható Falfesték Égkék 2.5L",
+    "termek_nev": "Dulux EasyCare Égkék 2.5L",
     "ar": 7790,
     "raktaron": true,
-    "leiras": "Gyerekbarát, mosható beltéri festék modern égkék árnyalatban.",
-    "kep_url": "https://picsum.photos/seed/festek16/400/300"
+    "rovid_leiras": "Mosható beltéri festék égkék színben.",
+    "hosszu_leiras": "Folt- és vízlepergető felületet képez. Gyerekszobákba, konyhába és előszobába is ideális.",
+    "kep_url": "https://picsum.photos/seed/festek16/400/300",
+    "tipus": "Beltéri"
   },
   {
-    "termek_nev": "Poli-Farbe Platinum Beltéri Falfesték Bézs 5L",
+    "termek_nev": "Platinum Bézs 5L",
     "ar": 5990,
     "raktaron": true,
-    "leiras": "Magas minőségű diszperziós festék természetes bézs színben.",
-    "kep_url": "https://picsum.photos/seed/festek17/400/300"
+    "rovid_leiras": "Természetes bézs árnyalat, matt felülettel.",
+    "hosszu_leiras": "Modern enteriőrökhöz illeszkedő szín. Könnyen felhordható és jó fedést biztosít 1–2 rétegben.",
+    "kep_url": "https://picsum.photos/seed/festek17/400/300",
+    "tipus": "Beltéri"
   },
   {
     "termek_nev": "Sadolin Base Plus Alapozó 5L",
     "ar": 8590,
     "raktaron": false,
-    "leiras": "Faanyagvédő alapozó kültéri használatra, növeli a bevonat élettartamát.",
-    "kep_url": "https://picsum.photos/seed/festek18/400/300"
+    "rovid_leiras": "Faanyagvédő alapozó kültérre.",
+    "hosszu_leiras": "Mélyen beszívódva védi a fát gomba és kékülés ellen. Lazúrral vagy fedőfestékkel átvonható.",
+    "kep_url": "https://picsum.photos/seed/festek18/400/300",
+    "tipus": "Fa"
   },
   {
     "termek_nev": "Trilak Aqua Zománc Fehér 1L",
     "ar": 4190,
     "raktaron": true,
-    "leiras": "Vízbázisú zománcfesték ajtókhoz és ablakokhoz, fényes felülettel.",
-    "kep_url": "https://picsum.photos/seed/festek19/400/300"
+    "rovid_leiras": "Vízbázisú, fényes zománc fehér színben.",
+    "hosszu_leiras": "Ajtók, ablakok és bútorok bevonatához. Jó terülés, alacsony szag, gyors száradás.",
+    "kep_url": "https://picsum.photos/seed/festek19/400/300",
+    "tipus": "Univerzális"
   },
   {
-    "termek_nev": "Héra Prémium Beltéri Falfesték Grafitszürke 5L",
+    "termek_nev": "Héra Grafitszürke 5L",
     "ar": 6790,
     "raktaron": true,
-    "leiras": "Elegáns sötétszürke árnyalat, modern enteriőrökbe.",
-    "kep_url": "https://picsum.photos/seed/festek20/400/300"
+    "rovid_leiras": "Elegáns grafitszürke beltéri falfesték.",
+    "hosszu_leiras": "Karakteres, modern hangulatot ad. Akcentus falakhoz vagy teljes helyiséghez megfelelő alapozással.",
+    "kep_url": "https://picsum.photos/seed/festek20/400/300",
+    "tipus": "Beltéri"
   },
   {
-    "termek_nev": "Poli-Farbe Inntaler Falfesték Jégfehér 10L",
+    "termek_nev": "Inntaler Jégfehér 10L",
     "ar": 11290,
     "raktaron": true,
-    "leiras": "Friss, tiszta fehér árnyalat, kiváló fedőképességgel.",
-    "kep_url": "https://picsum.photos/seed/festek21/400/300"
+    "rovid_leiras": "Friss, tiszta fehér beltéri falfesték.",
+    "hosszu_leiras": "Nagy kiadósság, könnyű javíthatóság. Régi felületek felújítására és új építéshez is jó választás.",
+    "kep_url": "https://picsum.photos/seed/festek21/400/300",
+    "tipus": "Beltéri"
   },
   {
-    "termek_nev": "Dulux Weathershield Kültéri Falfesték Krémszín 5L",
+    "termek_nev": "Weathershield Krémszín 5L",
     "ar": 9890,
     "raktaron": false,
-    "leiras": "Időjárás- és UV-álló kültéri festék, hosszan tartó védelemmel.",
-    "kep_url": "https://picsum.photos/seed/festek22/400/300"
+    "rovid_leiras": "Kültéri homlokzatfesték krémszín árnyalatban.",
+    "hosszu_leiras": "UV- és időjárásálló, páraáteresztő bevonatot ad. Hosszú távú szín- és felületvédelem.",
+    "kep_url": "https://picsum.photos/seed/festek22/400/300",
+    "tipus": "Kültéri"
   },
   {
-    "termek_nev": "Poli-Farbe Cellkolor Zománcfesték Fekete 1L",
+    "termek_nev": "Cellkolor Fekete Zománc 1L",
     "ar": 4390,
     "raktaron": true,
-    "leiras": "Klasszikus magasfényű fekete zománcfesték, sokoldalú felhasználásra.",
-    "kep_url": "https://picsum.photos/seed/festek23/400/300"
+    "rovid_leiras": "Klasszikus magasfényű fekete zománc.",
+    "hosszu_leiras": "Fa- és fémfelületekre egyaránt. Tartós, könnyen tisztítható felületet biztosít megfelelő alapozás után.",
+    "kep_url": "https://picsum.photos/seed/festek23/400/300",
+    "tipus": "Univerzális"
   },
   {
-    "termek_nev": "Héra Prémium Beltéri Falfesték Olívazöld 5L",
+    "termek_nev": "Héra Olívazöld 5L",
     "ar": 6890,
     "raktaron": true,
-    "leiras": "Természetes hatású olívazöld árnyalat, jól kombinálható fa bútorokkal.",
-    "kep_url": "https://picsum.photos/seed/festek24/400/300"
+    "rovid_leiras": "Természetes olívazöld beltéri festék.",
+    "hosszu_leiras": "Meleg, nyugtató tónus, jól kombinálható fával és textíliákkal. Matt, elegáns felületet ad.",
+    "kep_url": "https://picsum.photos/seed/festek24/400/300",
+    "tipus": "Beltéri"
   },
   {
-    "termek_nev": "Trilak Lazurán Aqua Dekor Mahagóni 2.5L",
+    "termek_nev": "Lazurán Aqua Mahagóni 2.5L",
     "ar": 4990,
     "raktaron": false,
-    "leiras": "Dekoratív védőlazúr, gazdag mahagóni árnyalatban.",
-    "kep_url": "https://picsum.photos/seed/festek25/400/300"
+    "rovid_leiras": "Gazdag mahagóni árnyalatú dekorlazúr.",
+    "hosszu_leiras": "Kiemeli a fa természetes szépségét és védi a környezeti hatásoktól. Belső és külső használatra is.",
+    "kep_url": "https://picsum.photos/seed/festek25/400/300",
+    "tipus": "Fa"
   },
   {
-    "termek_nev": "Poli-Farbe Platinum Beltéri Falfesték Égkék 5L",
+    "termek_nev": "Platinum Égkék 5L",
     "ar": 6190,
     "raktaron": true,
-    "leiras": "Világos, friss hatású égkék árnyalat, kiváló fedéssel.",
-    "kep_url": "https://picsum.photos/seed/festek26/400/300"
+    "rovid_leiras": "Világos égkék beltéri falfesték.",
+    "hosszu_leiras": "Friss, tágas érzetet kelt a helyiségben. Jó fedés 1–2 rétegben, rövid átszáradási idővel.",
+    "kep_url": "https://picsum.photos/seed/festek26/400/300",
+    "tipus": "Beltéri"
   },
   {
-    "termek_nev": "Héra Gold Beltéri Falfesték Homokszín 5L",
+    "termek_nev": "Héra Homokszín 5L",
     "ar": 6590,
     "raktaron": true,
-    "leiras": "Natúr hatású homokszín, kellemes, meleg tónussal.",
-    "kep_url": "https://picsum.photos/seed/festek27/400/300"
+    "rovid_leiras": "Natúr homokszínű beltéri festék.",
+    "hosszu_leiras": "Semleges, meleg árnyalat, amely könnyen párosítható. Matt, diszkrét felületet ad a falaknak.",
+    "kep_url": "https://picsum.photos/seed/festek27/400/300",
+    "tipus": "Beltéri"
   },
   {
-    "termek_nev": "Dulux EasyCare Mosható Falfesték Világosrózsaszín 2.5L",
+    "termek_nev": "EasyCare Világosrózsaszín 2.5L",
     "ar": 7590,
     "raktaron": false,
-    "leiras": "Könnyen tisztítható, pasztellrózsaszín árnyalat gyermek- és hálószobákba.",
-    "kep_url": "https://picsum.photos/seed/festek28/400/300"
+    "rovid_leiras": "Mosható beltéri festék világosrózsaszínben.",
+    "hosszu_leiras": "Foltlepergető és könnyen tisztítható felület. Hálókba, gyerekszobákba és előszobákba ajánlott.",
+    "kep_url": "https://picsum.photos/seed/festek28/400/300",
+    "tipus": "Beltéri"
   },
   {
-    "termek_nev": "Poli-Farbe Boróka Lazúr Paliszander 5L",
+    "termek_nev": "Boróka Lazúr Paliszander 5L",
     "ar": 9990,
     "raktaron": true,
-    "leiras": "Mélysötét paliszander árnyalat, kültéri fa felületekhez.",
-    "kep_url": "https://picsum.photos/seed/festek29/400/300"
+    "rovid_leiras": "Mélysötét paliszander lazúr kültéri fára.",
+    "hosszu_leiras": "Időjárás- és UV-álló, hosszú távú védelem. Kerítések, gerendák, kerti házak bevonására.",
+    "kep_url": "https://picsum.photos/seed/festek29/400/300",
+    "tipus": "Fa"
   },
   {
-    "termek_nev": "Sadolin Extra Kültéri Lazúr Fenyő 5L",
+    "termek_nev": "Sadolin Extra Fenyő 5L",
     "ar": 9490,
     "raktaron": true,
-    "leiras": "Nagy ellenállású, UV-álló kültéri lazúr fenyő árnyalatban.",
-    "kep_url": "https://picsum.photos/seed/festek30/400/300"
+    "rovid_leiras": "Tartós kültéri lazúr fenyő árnyalatban.",
+    "hosszu_leiras": "Rugalmasságának köszönhetően nem repedezik. Esztétikus, félig fedő, vízlepergető felületet képez.",
+    "kep_url": "https://picsum.photos/seed/festek30/400/300",
+    "tipus": "Kültéri"
   }
 ]
+
