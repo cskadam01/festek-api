@@ -266,4 +266,37 @@
     "raktaron": true,
     "rovid_leiras": "Natúr homokszínű beltéri festék.",
     "hosszu_leiras": "Semleges, meleg árnyalat, amely könnyen párosítható. Matt, diszkrét felületet ad a falaknak.",
-    "kep_url":
+    "kep_url": "https://picsum.photos/seed/festek27/400/300",
+    "tipus": "Beltéri"
+  },
+  {
+    "id": 28,
+    "termek_nev": "EasyCare Világosrózsaszín 2.5L",
+    "ar": 7590,
+    "raktaron": false,
+    "rovid_leiras": "Mosható beltéri festék világosrózsaszínben.",
+    "hosszu_leiras": "Foltlepergető és könnyen tisztítható felület. Hálókba, gyerekszobákba és előszobákba ajánlott.",
+    "kep_url": "https://picsum.photos/seed/festek28/400/300",
+    "tipus": "Beltéri"
+  },
+  {
+    "id": 29,
+    "termek_nev": "Boróka Lazúr Paliszander 5L",
+    "ar": 9990,
+    "raktaron": true,
+    "rovid_leiras": "Mélysötét paliszander lazúr kültéri fára.",
+    "hosszu_leiras": "Időjárás- és UV-álló, hosszú távú védelem. Kerítések, gerendák, kerti házak bevonására.",
+    "kep_url": "https://picsum.photos/seed/festek29/400/300",
+    "tipus": "Fa"
+  },
+  {
+    "id": 30,
+    "termek_nev": "Sadolin Extra Fenyő 5L",
+    "ar": 9490,
+    "raktaron": true,
+    "rovid_leiras": "Tartós kültéri lazúr fenyő árnyalatban.",
+    "hosszu_leiras": "Rugalmasságának köszönhetően nem repedezik. Esztétikus, félig fedő, vízlepergető felületet képez.",
+    "kep_url": "https://picsum.photos/seed/festek30/400/300",
+    "tipus": "Kültéri"
+  }
+]
