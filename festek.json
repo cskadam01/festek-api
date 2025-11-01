@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "termek_nev": "Héra Prémium Fehér Beltéri Falfesték 5L",
     "ar": 5990,
     "raktaron": true,
@@ -9,15 +10,17 @@
     "tipus": "Beltéri"
   },
   {
+    "id": 2,
     "termek_nev": "Trilak Aqua Lazúr Dió 2.5L",
     "ar": 4290,
     "raktaron": true,
     "rovid_leiras": "Vízbázisú dekorlazúr természetes dió árnyalatban.",
-    "hosszu_leiras": "Beltéri és kültéri fa felületekre is alkalmas. Ki emeli a fa erezetét és UV-álló védelmet biztosít.",
+    "hosszu_leiras": "Beltéri és kültéri fa felületekre is alkalmas. Kiemeli a fa erezetét és UV-álló védelmet biztosít.",
     "kep_url": "https://picsum.photos/seed/festek2/400/300",
     "tipus": "Fa"
   },
   {
+    "id": 3,
     "termek_nev": "Poli-Farbe Inntaler Beltéri Falfesték 15L",
     "ar": 10490,
     "raktaron": false,
@@ -27,6 +30,7 @@
     "tipus": "Beltéri"
   },
   {
+    "id": 4,
     "termek_nev": "Hammerite Fémfesték Ezüst 0.75L",
     "ar": 6490,
     "raktaron": true,
@@ -36,6 +40,7 @@
     "tipus": "Fém"
   },
   {
+    "id": 5,
     "termek_nev": "Sadolin Superdec Kültéri Fa Festék Fehér 2.5L",
     "ar": 8990,
     "raktaron": true,
@@ -45,6 +50,7 @@
     "tipus": "Kültéri"
   },
   {
+    "id": 6,
     "termek_nev": "Dulux EasyCare Pasztellzöld 2.5L",
     "ar": 7990,
     "raktaron": true,
@@ -54,6 +60,7 @@
     "tipus": "Beltéri"
   },
   {
+    "id": 7,
     "termek_nev": "Héra Gold Világosszürke 5L",
     "ar": 6290,
     "raktaron": true,
@@ -63,6 +70,7 @@
     "tipus": "Beltéri"
   },
   {
+    "id": 8,
     "termek_nev": "Cellkolor Univerzális Zománc Piros 1L",
     "ar": 4590,
     "raktaron": false,
@@ -72,6 +80,7 @@
     "tipus": "Univerzális"
   },
   {
+    "id": 9,
     "termek_nev": "Tikkurila Optiva 5 Matt 9L",
     "ar": 16990,
     "raktaron": true,
@@ -81,6 +90,7 @@
     "tipus": "Beltéri"
   },
   {
+    "id": 10,
     "termek_nev": "Boróka Lazúr Tölgy 5L",
     "ar": 9990,
     "raktaron": true,
@@ -90,6 +100,7 @@
     "tipus": "Fa"
   },
   {
+    "id": 11,
     "termek_nev": "Dulux Professional Kültéri Fehér 10L",
     "ar": 17990,
     "raktaron": true,
@@ -99,6 +110,7 @@
     "tipus": "Kültéri"
   },
   {
+    "id": 12,
     "termek_nev": "Corso Betonfesték Szürke 4L",
     "ar": 8990,
     "raktaron": false,
@@ -108,6 +120,7 @@
     "tipus": "Kültéri"
   },
   {
+    "id": 13,
     "termek_nev": "Lazurán Aqua Dekor Cédrus 2.5L",
     "ar": 4690,
     "raktaron": true,
@@ -117,6 +130,7 @@
     "tipus": "Fa"
   },
   {
+    "id": 14,
     "termek_nev": "Hammerite Fémfesték Arany 0.75L",
     "ar": 6890,
     "raktaron": true,
@@ -126,6 +140,7 @@
     "tipus": "Fém"
   },
   {
+    "id": 15,
     "termek_nev": "Héra Vaníliakrém 5L",
     "ar": 6490,
     "raktaron": true,
@@ -135,6 +150,7 @@
     "tipus": "Beltéri"
   },
   {
+    "id": 16,
     "termek_nev": "Dulux EasyCare Égkék 2.5L",
     "ar": 7790,
     "raktaron": true,
@@ -144,6 +160,7 @@
     "tipus": "Beltéri"
   },
   {
+    "id": 17,
     "termek_nev": "Platinum Bézs 5L",
     "ar": 5990,
     "raktaron": true,
@@ -153,6 +170,7 @@
     "tipus": "Beltéri"
   },
   {
+    "id": 18,
     "termek_nev": "Sadolin Base Plus Alapozó 5L",
     "ar": 8590,
     "raktaron": false,
@@ -162,6 +180,7 @@
     "tipus": "Fa"
   },
   {
+    "id": 19,
     "termek_nev": "Trilak Aqua Zománc Fehér 1L",
     "ar": 4190,
     "raktaron": true,
@@ -171,6 +190,7 @@
     "tipus": "Univerzális"
   },
   {
+    "id": 20,
     "termek_nev": "Héra Grafitszürke 5L",
     "ar": 6790,
     "raktaron": true,
@@ -180,6 +200,7 @@
     "tipus": "Beltéri"
   },
   {
+    "id": 21,
     "termek_nev": "Inntaler Jégfehér 10L",
     "ar": 11290,
     "raktaron": true,
@@ -189,6 +210,7 @@
     "tipus": "Beltéri"
   },
   {
+    "id": 22,
     "termek_nev": "Weathershield Krémszín 5L",
     "ar": 9890,
     "raktaron": false,
@@ -198,6 +220,7 @@
     "tipus": "Kültéri"
   },
   {
+    "id": 23,
     "termek_nev": "Cellkolor Fekete Zománc 1L",
     "ar": 4390,
     "raktaron": true,
@@ -207,6 +230,7 @@
     "tipus": "Univerzális"
   },
   {
+    "id": 24,
     "termek_nev": "Héra Olívazöld 5L",
     "ar": 6890,
     "raktaron": true,
@@ -216,6 +240,7 @@
     "tipus": "Beltéri"
   },
   {
+    "id": 25,
     "termek_nev": "Lazurán Aqua Mahagóni 2.5L",
     "ar": 4990,
     "raktaron": false,
@@ -225,6 +250,7 @@
     "tipus": "Fa"
   },
   {
+    "id": 26,
     "termek_nev": "Platinum Égkék 5L",
     "ar": 6190,
     "raktaron": true,
@@ -234,40 +260,10 @@
     "tipus": "Beltéri"
   },
   {
+    "id": 27,
     "termek_nev": "Héra Homokszín 5L",
     "ar": 6590,
     "raktaron": true,
     "rovid_leiras": "Natúr homokszínű beltéri festék.",
     "hosszu_leiras": "Semleges, meleg árnyalat, amely könnyen párosítható. Matt, diszkrét felületet ad a falaknak.",
-    "kep_url": "https://picsum.photos/seed/festek27/400/300",
-    "tipus": "Beltéri"
-  },
-  {
-    "termek_nev": "EasyCare Világosrózsaszín 2.5L",
-    "ar": 7590,
-    "raktaron": false,
-    "rovid_leiras": "Mosható beltéri festék világosrózsaszínben.",
-    "hosszu_leiras": "Foltlepergető és könnyen tisztítható felület. Hálókba, gyerekszobákba és előszobákba ajánlott.",
-    "kep_url": "https://picsum.photos/seed/festek28/400/300",
-    "tipus": "Beltéri"
-  },
-  {
-    "termek_nev": "Boróka Lazúr Paliszander 5L",
-    "ar": 9990,
-    "raktaron": true,
-    "rovid_leiras": "Mélysötét paliszander lazúr kültéri fára.",
-    "hosszu_leiras": "Időjárás- és UV-álló, hosszú távú védelem. Kerítések, gerendák, kerti házak bevonására.",
-    "kep_url": "https://picsum.photos/seed/festek29/400/300",
-    "tipus": "Fa"
-  },
-  {
-    "termek_nev": "Sadolin Extra Fenyő 5L",
-    "ar": 9490,
-    "raktaron": true,
-    "rovid_leiras": "Tartós kültéri lazúr fenyő árnyalatban.",
-    "hosszu_leiras": "Rugalmasságának köszönhetően nem repedezik. Esztétikus, félig fedő, vízlepergető felületet képez.",
-    "kep_url": "https://picsum.photos/seed/festek30/400/300",
-    "tipus": "Kültéri"
-  }
-]
-
+    "kep_url":
